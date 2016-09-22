@@ -1,0 +1,60 @@
+2006
+Andre Iguodala,hook
+Leage Wide Probability: 0.459649122807, Individual Probability: 1.0
+Chris Paul,tip
+Leage Wide Probability: 0.506601166718, Individual Probability: unknown
+Chris Paul,layup
+Leage Wide Probability: 0.474328348441, Individual Probability: 0.335877862595
+Kevin Garnett,3pt
+Leage Wide Probability: 0.395744059213, Individual Probability: 0.227272727273
+Kevin Garnett,shortmid
+Leage Wide Probability: 0.395125695644, Individual Probability: 0.443333333333
+Kevin Garnett,dunk
+Leage Wide Probability: 0.872830802603, Individual Probability: 0.941176470588
+Tony Allen,3pt
+Leage Wide Probability: 0.395744059213, Individual Probability: unknown
+
+
+2006-2007
+Andre Iguodala,hook
+Leage Wide Probability: 0.449105309475, Individual Probability: 0.6
+Chris Paul,tip
+Leage Wide Probability: 0.488009592326, Individual Probability: 0.333333333333
+Chris Paul,layup
+Leage Wide Probability: 0.460782182688, Individual Probability: 0.385620915033
+Kevin Garnett,3pt
+Leage Wide Probability: 0.372840403019, Individual Probability: 0.15625
+Kevin Garnett,shortmid
+Leage Wide Probability: 0.391088660354, Individual Probability: 0.464354527938
+Kevin Garnett,dunk
+Leage Wide Probability: 0.871402877698, Individual Probability: 0.955555555556
+Tony Allen,3pt
+Leage Wide Probability: 0.372840403019, Individual Probability: 0.314814814815
+
+
+2006-2008
+Andre Iguodala,hook
+Leage Wide Probability: 0.450236966825, Individual Probability: 0.5
+Chris Paul,tip
+League Wide Probability: 0.481510699142, Individual Probability: 0.333333333333
+Chris Paul,layup
+League Wide Probability: 0.453923491355, Individual Probability: 0.414893617021
+Kevin Garnett,3pt
+League Wide Probability: 0.370387157696, Individual Probability: 0.175
+Kevin Garnett,shortmid
+League Wide Probability: 0.390101957282, Individual Probability: 0.465773809524
+Kevin Garnett,dunk
+League Wide Probability: 0.87151728768, Individual Probability: 0.964912280702
+Tony Allen,3pt
+League Wide Probability: 0.370387157696, Individual Probability: 0.269230769231
+
+
+
+Over time as we collect more data points, we can see edge cases like Andre
+Iguodala shooting hook shots, Chris Paul tipping in shots, and Tony Allen
+shooting 3's will come to a more reasonable percentage. Additionally, we can see
+the development of a player, like Chris Paul. We can see his layup percentage
+climb over time, as he becomes more accustomed to finishing around the big men
+in the NBA. We also see that players like Kevin Garnett remain relatively
+consistent simply from the sheer number of shots they take, in this case
+3 pointers and dunks.
